@@ -25,6 +25,11 @@ match_entry.py - Reads all entries in topics and finds entries with city, town, 
 
 intensity.py - Read e_feel = 1 entries of all topics. Intensity grade of the entry (e_intensity) can be given via command-line interface.
 
+## CSV Files
+
+links.csv	- All earthquake topics in the website.
+
+earthquake_w_pages.csv - All earthquake topics with number of pages of entries in the website.
 
 # Citation
 Soon to be announced...
