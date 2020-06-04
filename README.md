@@ -10,9 +10,9 @@ information of earthquakes.
 Analysis of magnitudes guesses done by users of the eksisozluk vs. the measured magnitudes.
 ## shakemaps
 Shake map graphs that are created by using the method of 
-Tiberi, Lara, et al. "The 1895 Ljubljana earthquake: 
-can the intensity data points discriminate which one of the nearby faults was the causative one?." 
-Journal of seismology 22.4 (2018): 927-941.
+Cataldi L, Tiberi L, Costa G (submitted) A new estimation of mcs intensity for italy from
+high quality accelerometric data, using gmices and gaussian naı̈ve bayes classifiers. Geo-
+physical Journal International
 ## settlements
 Folder contains the city, town, district and neighborhood information of Turkey.
 ## Codes
