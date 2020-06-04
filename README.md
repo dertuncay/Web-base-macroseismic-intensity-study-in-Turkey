@@ -8,9 +8,6 @@ Entries with username, date/time, link, felt report, city, town, neighborhood, i
 information of earthquakes.
 ## suser_mag_guesses
 Analysis of magnitudes guesses done by users of the eksisozluk vs. the measured magnitudes.
-## shakemaps
-Shake map graphs that are created by using the method of 
-Cataldi L, Tiberi L, Costa G (submitted) A new estimation of mcs intensity for italy from high quality accelerometric data, using gmices and gaussian naı̈ve bayes classifiers. Geophysical Journal International
 ## settlements
 Folder contains the city, town, district and neighborhood information of Turkey.
 ## Codes
@@ -28,6 +25,11 @@ intensity.py - Read e_feel = 1 entries of all topics. Intensity grade of the ent
 links.csv	- All earthquake topics in the website.
 
 earthquake_w_pages.csv - All earthquake topics with number of pages of entries in the website.
+
+## GIS Files
+
+GIS files can be retrieved from [here](10.6084/m9.figshare.12424352) (data will be available when the article is in review)
+
 
 # Citation
 Soon to be announced...
