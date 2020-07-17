@@ -32,4 +32,4 @@ GIS files can be retrieved from [here](10.6084/m9.figshare.12424352) (data will 
 
 
 # Citation
-Soon to be announced...
+Ertuncay, D., Cataldi, L., and Costa, G.: Web-based macroseismic intensity study in Turkey: entries in Ekşi Sözlük, Geosci. Commun. Discuss., https://doi.org/10.5194/gc-2020-31, in review, 2020.
